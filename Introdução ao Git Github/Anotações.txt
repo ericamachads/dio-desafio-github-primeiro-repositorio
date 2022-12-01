@@ -1,0 +1,5 @@
+No Git Bash para publicar no Github:
+git status - para ver as alterações 
+git add . - mostra que quero adicionar ao Github (local)
+git commit -m "Inclusão das anotações do curso"
+git push origin main - enviando todos os commits para a nuvem
